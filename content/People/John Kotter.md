@@ -1,5 +1,5 @@
 ---
-title: '"Johm Kotter"'
+title: '"John Kotter"'
 type: person
 role:
   - "[author, researcher, thinker]"
