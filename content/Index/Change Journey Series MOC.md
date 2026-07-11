@@ -35,7 +35,7 @@ Sustainable organisational transformation requires human change management, tech
 
 ### Foundational & change management concepts
 - [[Change Management]] · [[Kotter 8-Step Model]] · [[Lewin Change Model]] · [[ADKAR Model]]
-- [[Incremental vs Radical Change]] · [[Planned vs Unplanned Change]]
+- [[Incremental vs Radical Change+]] · [[Planned vs Unplanned Change+]]
 - [[Change Coalition]] · [[Communication Strategy]] · [[Cultural Intelligence]]
 - [[Skill Gap Analysis]] · [[KPIs for Change]] · [[Employee Involvement and Ongoing Support]]
 - [[Culture]] · [[Leadership Alignment]]

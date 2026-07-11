@@ -31,8 +31,8 @@ Successful organisational change is fundamentally a human challenge, not a struc
 
 ## Key concepts
 - [[Change Management]] — structured approach to transition individuals, teams, and organisations to a desired future state
-- [[Themes/Incremental vs Radical Change]] — spectrum from gradual adjustments to paradigm-shifting transformation
-- [[Themes/Planned vs Unplanned Change]] — deliberate initiatives vs reactive responses to unforeseen events
+- [[Incremental vs Radical Change+]] — spectrum from gradual adjustments to paradigm-shifting transformation
+- [[Planned vs Unplanned Change+]] — deliberate initiatives vs reactive responses to unforeseen events
 - [[Kotter 8-Step Model]] — widely used sequential framework for planned change
 - [[Lewin Change Model]] — three-stage Unfreeze / Change / Refreeze framework
 - [[ADKAR Model]] — individual-focused model: Awareness, Desire, Knowledge, Ability, Reinforcement

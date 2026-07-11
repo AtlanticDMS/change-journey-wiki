@@ -12,6 +12,7 @@ source_books:
   - "[[AI and Digital Transformation - A Guidebook for SMB Leaders]]"
   - "[[Data Insights and Analytics - A Guidebook for SMB Leaders]]"
 ---
+
 ## Who are they?
 
 Tom Mostert spent more than 30 years inside the data analytics and marketing industry, helping global brands use behavioral science and audience targeting to capture consumer attention at scale.

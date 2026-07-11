@@ -12,8 +12,8 @@ tags: [type/index, topic/change-management]
 
 ## Core concepts
 - [[Change Management]] — the discipline defined
-- [[Themes/Incremental vs Radical Change]] — spectrum of change types
-- [[Themes/Planned vs Unplanned Change]] — proactive vs reactive change
+- [[Incremental vs Radical Change+]] — spectrum of change types
+- [[Planned vs Unplanned Change+]] — proactive vs reactive change
 - [[Kotter 8-Step Model]] — sequential framework for planned change
 - [[Lewin Change Model]] — Unfreeze / Change / Refreeze
 - [[ADKAR Model]] — individual-level change adoption

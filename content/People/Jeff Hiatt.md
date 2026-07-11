@@ -11,7 +11,7 @@ source_books:
   - "[[Change Management - A Guidebook for SMB Leaders]]"
 ---
 
-## Definition
+## Who are they?
 Founder of Prosci and creator of the ADKAR Model, a goal-oriented, individual-level framework for change adoption. Author of *ADKAR: A Model for Change in Business, Government and Our Community* (2006).
 
 ## Why it matters

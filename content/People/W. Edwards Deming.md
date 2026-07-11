@@ -13,6 +13,7 @@ tags:
 books_written:
 books_referenced_in: "[[Data Insights and Analytics - A Guidebook for SMB Leaders]]"
 ---
+
 ## Who are they?
 W. Edwards Deming (1900–1993) was an American statistician and quality management theorist whose work transformed post-war Japanese manufacturing and later influenced Western management through the Total Quality Management (TQM) movement.
 

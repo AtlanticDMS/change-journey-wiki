@@ -44,8 +44,8 @@ Vol I's human support structures and Vol II's [[Agile and Lean Practices]] combi
 
 ## My thinking
 - [[Continuous Improvement]]
-- [[Themes/Incremental vs Radical Change]]
+- [[Incremental vs Radical Change+]]
 - [[Communication in Change]]
 - [[Change Readiness]]
-- [[Themes/Planned vs Unplanned Change]]
+- [[Planned vs Unplanned Change+]]
 - [[Employee Involvement]]

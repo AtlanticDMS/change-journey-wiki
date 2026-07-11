@@ -10,6 +10,7 @@ tags:
 books_written:
 books_referenced_in: "[[Data Insights and Analytics - A Guidebook for SMB Leaders]]"
 ---
+
 ## Who are they?
 Seth Godin is an American author and marketing theorist known for writing influential books on modern marketing, permission marketing, and the idea economy. Author of Purple Cow, Permission Marketing, and Tribes, among others.
 

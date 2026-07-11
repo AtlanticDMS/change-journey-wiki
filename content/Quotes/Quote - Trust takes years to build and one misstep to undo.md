@@ -32,6 +32,6 @@ Directly relevant to change leadership in culturally sensitive contexts. A remin
 - [[Human Side of Change+]]
 - [[+]]
 - [[Continuous Improvement]]
-- [[Themes/Incremental vs Radical Change]]
+- [[Incremental vs Radical Change+]]
 - [[Cultural Intelligence]]
 - [[Leadership Alignment]]

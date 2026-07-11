@@ -15,7 +15,6 @@ related_concepts:
   - "[[Ongoing Support Mechanisms+]]"
 ---
 
-
 ## Definition
 Key Performance Indicators used to measure the progress and effectiveness of a change initiative. Provides the change leadership team with an ongoing gauge of momentum and a basis for proactive intervention.
 

@@ -1,7 +1,14 @@
 ---
-title: "The Innovator's Dilemma"
+title: The Innovator's Dilemma
 type: reference
-topic: innovation
+topic:
+  - AI
+  - automation
+  - digital-transformation
+  - technology
+  - strategy
+  - leadership
+  - Innovation
 tags:
   - type/reference
   - topic/innovation
@@ -28,7 +35,7 @@ Christensen's theory provides the intellectual backbone for the series' repeated
 
 ## Related concepts
 - [[Digital Transformation]] — the series' answer to the risk this book describes
-- [[Themes/Incremental vs Radical Change]] — sustaining vs disruptive innovation maps closely to this distinction
+- [[Incremental vs Radical Change+]] — sustaining vs disruptive innovation maps closely to this distinction
 - [[Risk Management in Digital Transformation]] — mitigating the risk of being disrupted
 
 ## Appears in
@@ -38,3 +45,16 @@ Christensen's theory provides the intellectual backbone for the series' repeated
 - [[Strategy Before Technology+]]
 
 ## My thinking
+- [[Strategy Before Technology]]
+- [[Change Readiness]]
+- [[Generative AI]]
+- [[Data Analytics]]
+- [[Digital Transformation Strategy]]
+- [[Cybersecurity]]
+- [[Robotic Process Automation]]
+- [[Digital Culture]]
+- [[Risk Management in Digital Transformation]]
+- [[Artificial Intelligence]]
+- [[Digital Readiness Assessment]]
+- [[Digital Transformation MOC]]
+- [[Data as Organisational Asset]]

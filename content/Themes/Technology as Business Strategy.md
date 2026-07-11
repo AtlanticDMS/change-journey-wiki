@@ -1,12 +1,24 @@
 ---
-title: "Technology as Business Strategy"
+title: Technology as Business Strategy
 type: theme
-topic: series-overview
+topic:
+  - series-overview
+  - automation
+  - continuous-improvement
+  - cloud-computing
+  - AI
+  - data
+  - cybersecurity
+  - digital-transformation
+  - strategy
+  - technology
 tags:
   - type/theme
   - topic/series-overview
   - status/complete
   - source/book
+  - topic/digital-transformation
+  - topic/AI
 source_books:
   - "[[AI and Digital Transformation - A Guidebook for SMB Leaders]]"
   - "[[Change Management - A Guidebook for SMB Leaders]]"

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Cultural Intelligence]]"
   - "[[Ongoing Support Mechanisms+]]"
 ---
+
 ## The quote
 
 > Organisations do not change unless the people do.

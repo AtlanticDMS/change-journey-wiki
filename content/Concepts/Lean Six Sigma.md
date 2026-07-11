@@ -31,7 +31,7 @@ Where pure LEAN targets speed and flow, Lean Six Sigma adds a rigorous quality d
 ## Related concepts
 - [[LEAN]] — the waste-elimination half of the hybrid methodology
 - [[Agile]] — complementary iterative approach, often used alongside
-- [[Themes/Incremental vs Radical Change]] — Lean Six Sigma is inherently an incremental-change tool
+- [[Incremental vs Radical Change+]] — Lean Six Sigma is inherently an incremental-change tool
 - [[Continuous Improvement]] — the philosophy Lean Six Sigma operationalises
 
 ## Appears in

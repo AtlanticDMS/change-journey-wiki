@@ -58,11 +58,11 @@ Vol I's [[Communication Strategy]] and Vol III's [[Concepts/Data Storytelling]] 
 
 ## My thinking
 Incorporates the following subtopics:
-- [[Themes/Planned vs Unplanned Change]]
+- [[Planned vs Unplanned Change+]]
 - [[Ongoing Support Mechanisms+]]
 - [[Leadership as Catalyst+]]
 - [[KAIZEN]]
-- [[Themes/Incremental vs Radical Change]]
+- [[Incremental vs Radical Change+]]
 - [[Employee Involvement+]]
 - [[+]]
 - [[Continuous Improvement]]

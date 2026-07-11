@@ -12,7 +12,7 @@ related_concepts:
   - "[[Change Management]]"
   - "[[Kotter 8-Step Model]]"
   - "[[ADKAR Model]]"
-  - "[[Themes/Planned vs Unplanned Change]]"
+  - "[[Planned vs Unplanned Change+]]"
 ---
 
 ## Definition
@@ -32,7 +32,7 @@ Its simplicity makes it universally applicable. It captures the key insight that
 ## Related concepts
 - [[Kotter 8-Step Model]] — more detailed alternative for planned change
 - [[ADKAR Model]] — addresses the individual journey within each Lewin stage
-- [[Themes/Planned vs Unplanned Change]] — Lewin is adaptable to both
+- [[Planned vs Unplanned Change+]] — Lewin is adaptable to both
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2)

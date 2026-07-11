@@ -13,6 +13,7 @@ related_concepts:
   - "[[Ongoing Support Mechanisms+]]"
   - "[[Continuous Improvement]]"
 ---
+
 ## The quote
 
 > Business and community leaders should recognize that change is not a discrete event, but a continuous process woven into the fabric of modern socio-economic dynamics.

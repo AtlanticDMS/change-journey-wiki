@@ -27,7 +27,7 @@ Each type demands a fundamentally different management posture. Planned change a
 - From [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2): planned change is illustrated by deliberate performance management system rollouts; unplanned change by swift operational adjustment to economic downturns or competitive moves.
 
 ## Related concepts
-- [[Incremental vs Radical Change]] — a related but distinct classification axis
+- [[Concepts/Incremental vs Radical Change]] — a related but distinct classification axis
 - [[Lewin Change Model]] — explicitly noted as adaptable to unplanned change
 - [[ADKAR Model]] — appropriate for both planned and unplanned change situations
 - [[Change Readiness+]] — determines an organisation's capacity to absorb either type

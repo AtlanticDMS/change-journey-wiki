@@ -11,7 +11,7 @@ source_books:
   - "[[Change Management - A Guidebook for SMB Leaders]]"
 ---
 
-## Definition
+## Who are they?
 A German-American psychologist (1890–1947), widely regarded as one of the founders of social psychology and organisational development. Best known in change management circles for his three-stage model of change and his broader work on field theory and group dynamics.
 
 ## Why it matters

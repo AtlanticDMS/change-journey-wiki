@@ -12,7 +12,7 @@ related_concepts:
   - "[[Change Management]]"
   - "[[Communication Strategy]]"
   - "[[Employee Involvement+]]"
-  - "[[Themes/Incremental vs Radical Change]]"
+  - "[[Incremental vs Radical Change+]]"
 ---
 
 ## Definition

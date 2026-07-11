@@ -1,7 +1,14 @@
 ---
-title: "The Lean Startup"
+title: The Lean Startup
 type: reference
-topic: agile-lean
+topic:
+  - AI
+  - agile-lean
+  - automation
+  - digital-transformation
+  - technology
+  - strategy
+  - cloud-computing
 tags:
   - type/reference
   - topic/agile-lean
@@ -38,3 +45,11 @@ Although not written specifically for SMBs, its core ideas — iterative develop
 - [[Continuous Improvement]]
 
 ## My thinking
+- [[Digital Readiness Assessment]]
+- [[LEAN]]
+- [[LEAN Six Sigma]]
+- [[Agile and Lean Practices]]
+- [[Digital Transformation Strategy]]
+- [[Risk Management in Digital Transformation]]
+- [[Business Process Automation]]
+- [[Data as Organisational Asset]] 

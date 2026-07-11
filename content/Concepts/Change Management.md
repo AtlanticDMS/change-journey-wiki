@@ -16,7 +16,6 @@ related_concepts:
   - "[[Leadership Alignment]]"
 ---
 
-
 ## Definition
 A structured, systematic approach to transitioning individuals, teams, and organisations from a current state to a desired future state. It encompasses planning, implementation, and reinforcement of change initiatives.
 

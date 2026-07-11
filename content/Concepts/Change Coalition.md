@@ -15,7 +15,6 @@ related_concepts:
   - "[[Communication Strategy]]"
 ---
 
-
 ## Definition
 A dedicated, cross-functional team assembled to lead and drive a change initiative. The coalition should include diverse skills and representation from different levels of the organisation, with enough influence to drive change across departments.
 

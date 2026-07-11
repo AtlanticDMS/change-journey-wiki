@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Analytics Framework]]"
 ---
+
 ## The quote
 
 > What gets measured gets managed.
