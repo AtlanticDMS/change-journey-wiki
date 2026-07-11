@@ -31,7 +31,7 @@ The concept of understanding your audience before communicating maps directly to
 
 ## Related concepts
 - [[Data Analytics]] — the data foundation for all segmentation
-- [[Customer Journey Optimisation]] — segmentation informs journey design
+- [[Concepts/Customer Journey Optimisation]] — segmentation informs journey design
 - [[Communication Strategy]] — Vol 1; tailored messaging by audience
 - [[Cultural Intelligence]] — Vol 1; cultural nuance within segments
 
@@ -39,7 +39,7 @@ The concept of understanding your audience before communicating maps directly to
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 6, Ch. 7)
 
 ## Themes this concept feeds
-- [[Customer-Centricity]]
-- [[Data as Organisational Asset]]
+- [[Customer-Centricity+]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking

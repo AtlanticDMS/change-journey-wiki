@@ -42,8 +42,8 @@ Cognitive biases in research are the Vol 3 data-specific expression of Vol 1's o
 
 ## Related concepts
 - [[Data Quality and Integrity]] — biases are a form of data integrity failure
-- [[Data Storytelling]] — biases distort the stories we tell from data
-- [[Ethical Data Use]] — unchecked bias is an ethical failure
+- [[Concepts/Data Storytelling]] — biases distort the stories we tell from data
+- [[Ethical Data Use+]] — unchecked bias is an ethical failure
 - [[Communication Strategy]] — Vol 1; warns against overconfidence bias in change narratives
 
 ## Appears in
@@ -51,6 +51,6 @@ Cognitive biases in research are the Vol 3 data-specific expression of Vol 1's o
 
 ## Themes this concept feeds
 - [[Evidence-Based Leadership]]
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking

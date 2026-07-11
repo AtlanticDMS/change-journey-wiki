@@ -30,7 +30,7 @@ Start with non-critical workloads — email, video conferencing, file storage. B
 ## Related concepts
 - [[Cybersecurity]] — cloud adoption requires parallel security investment
 - [[Digital Transformation Strategy]] — cloud migration sequence is a strategic decision
-- [[Business Process Automation]] — cloud platforms enable scalable automation
+- [[Business Process Automation+]] — cloud platforms enable scalable automation
 - [[Risk Management in Digital Transformation]] — cloud introduces new risk vectors
 
 ## Appears in

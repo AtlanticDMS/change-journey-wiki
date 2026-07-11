@@ -9,10 +9,10 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[Change Management]]"
-- "[[Change Readiness]]"
-- "[[Employee Involvement]]"
-- "[[Ongoing Support Mechanisms]]"
+  - "[[Change Management]]"
+  - "[[Change Readiness+]]"
+  - "[[Employee Involvement+]]"
+  - "[[Ongoing Support Mechanisms+]]"
 ---
 
 

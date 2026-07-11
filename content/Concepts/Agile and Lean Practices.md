@@ -28,12 +28,12 @@ Post-transformation, organisations need a way to keep improving without launchin
 - Value stream mapping — visually map every step in a process to identify non-value-adding steps
 
 ## Cross-volume link
-Agile's iterative, feedback-driven approach mirrors the [[Lewin Change Model]] (Vol 1) Refreeze → Unfreeze cycle — continuous transformation rather than episodic transformation. [[Ongoing Support Mechanisms]] (Vol 1) is the human infrastructure that makes Lean continuous improvement sustainable.
+Agile's iterative, feedback-driven approach mirrors the [[Lewin Change Model]] (Vol 1) Refreeze → Unfreeze cycle — continuous transformation rather than episodic transformation. [[Ongoing Support Mechanisms+]] (Vol 1) is the human infrastructure that makes Lean continuous improvement sustainable.
 
 ## Related concepts
 - [[Continuous Improvement]] — the theme this concept most directly feeds
 - [[Lewin Change Model]] — Vol 1; iterative change philosophy parallel
-- [[Ongoing Support Mechanisms]] — Vol 1; human layer sustaining continuous improvement
+- [[Ongoing Support Mechanisms+]] — Vol 1; human layer sustaining continuous improvement
 - [[Digital Culture]] — Agile requires a culture of experimentation and psychological safety
 
 ## Appears in

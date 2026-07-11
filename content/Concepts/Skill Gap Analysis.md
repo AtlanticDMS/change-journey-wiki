@@ -9,10 +9,10 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[ADKAR Model]]"
-- "[[Ongoing Support Mechanisms]]"
-- "[[KPIs for Change]]"
-- "[[Employee Involvement]]"
+  - "[[ADKAR Model]]"
+  - "[[Ongoing Support Mechanisms+]]"
+  - "[[KPIs for Change]]"
+  - "[[Employee Involvement+]]"
 ---
 
 ## Definition
@@ -42,8 +42,8 @@ Not all steps are always necessary; the transformation objectives determine whic
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change]]
+- [[Human Side of Change+]]
 - [[Continuous Improvement]]
 
 ## My thinking
-Skills gaps can be identified during several stages of the change process, and there should be strong [[Leadership Alignment]] on how to fill these gaps, it should have broad [[Employee Involvement]] and be one of the [[KPIs for Change]].
+Skills gaps can be identified during several stages of the change process, and there should be strong [[Leadership Alignment]] on how to fill these gaps, it should have broad [[Employee Involvement+]] and be one of the [[KPIs for Change]].

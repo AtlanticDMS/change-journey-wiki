@@ -25,7 +25,7 @@ The clearest statement of urgency in the book. Pairs directly with Vol 1's urgen
 
 ## Themes this quote feeds
 - [[Concepts/Technology as Business Strategy]]
-- [[Human Side of Change]]
+- [[Human Side of Change+]]
 - [[Digital Culture]]
 - [[Digital Transformation]]
 - [[Digital Transformation Strategy]]

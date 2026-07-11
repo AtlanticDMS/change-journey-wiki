@@ -16,8 +16,8 @@ source_books:
 
 ## My Synthesis
 
-[[Change Readiness]]
-[[Planned vs Unplanned Change]]
+[[Change Readiness+]]
+[[Themes/Planned vs Unplanned Change]]
 [[Concept template]]
 [[Continuous Improvement]]
 

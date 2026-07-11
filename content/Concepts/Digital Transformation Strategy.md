@@ -43,6 +43,6 @@ Strategy without aligned leadership will fail. [[Leadership Alignment]] (Vol 1) 
 
 ## Themes this concept feeds
 - [[Concepts/Technology as Business Strategy]]
-- [[Leadership as Catalyst]]
+- [[Leadership as Catalyst+]]
 
 ## My thinking

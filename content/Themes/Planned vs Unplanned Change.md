@@ -18,7 +18,7 @@ source_books:
 
 ## My Synthesis
 
-[[Change Readiness]]
+[[Change Readiness+]]
 [[Skill Gap Analysis]]
 [[Communication Strategy]]
 [[Lewin Change Model]]

@@ -20,7 +20,7 @@ data analytics for SMB leaders.
 - [[Change Management MOC]]
 - [[Digital Transformation MOC]]
 - [[Data Analytics MOC]]
-- [[Change Journey Series MOC]]
+- [[Change Journey Series MOC+]]
 
 ## About the series
 The Change Journey series provides SMB leaders with a complete 

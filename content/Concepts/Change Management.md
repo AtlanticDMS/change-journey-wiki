@@ -9,11 +9,11 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[Kotter 8-Step Model]]"
-- "[[Lewin Change Model]]"
-- "[[ADKAR Model]]"
-- "[[Change Readiness]]"
-- "[[Leadership Alignment]]"
+  - "[[Kotter 8-Step Model]]"
+  - "[[Lewin Change Model]]"
+  - "[[ADKAR Model]]"
+  - "[[Change Readiness+]]"
+  - "[[Leadership Alignment]]"
 ---
 
 
@@ -36,16 +36,16 @@ Three core phases:
 - [[Kotter 8-Step Model]] — a specific sequential framework for managing planned change
 - [[Lewin Change Model]] — simpler three-stage model adaptable to unplanned change
 - [[ADKAR Model]] — individual-focused change model
-- [[Change Readiness]] — assessing organisational preparedness before beginning
+- [[Change Readiness+]] — assessing organisational preparedness before beginning
 - [[Leadership Alignment]] — precondition for successful change management
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 1)
 
 ## Themes this concept feeds
-- [[Human Side of Change]]
-- [[Leadership as Catalyst]]
-- [[Communication in Change]]
+- [[Human Side of Change+]]
+- [[Leadership as Catalyst+]]
+- [[Communication in Change+]]
 
 ## My thinking
 This is the overarching discipline, and connects the [[Theme]] part to the [[Concept]] part.

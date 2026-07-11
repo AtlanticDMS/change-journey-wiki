@@ -36,9 +36,9 @@ The coalition should have access to affordable tools for project management, col
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4 & 5)
 
 ## Themes this concept feeds
-- [[Leadership as Catalyst]]
+- [[Leadership as Catalyst+]]
 - [[Communication Strategy]]
-- [[Cultural Sensitivity in Organisations]] 
+- [[+]] 
 
 ## My thinking
-The coalition is a networking function, and involves stakeholder management and alignment. This is where your "Change Champions" play an important role, connecting [[Cultural Sensitivity in Organisations]] to the actual execution of the Change Strategy and [[Communication Strategy]].
+The coalition is a networking function, and involves stakeholder management and alignment. This is where your "Change Champions" play an important role, connecting [[+]] to the actual execution of the Change Strategy and [[Communication Strategy]].

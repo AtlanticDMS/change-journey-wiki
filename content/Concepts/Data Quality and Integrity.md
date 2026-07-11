@@ -36,12 +36,12 @@ Data quality is the Vol 3 operational foundation for Vol 2's [[Data Analytics]] 
 - [[Concepts/Analytics Framework]] — the governance structure that enforces data quality standards
 - [[Data Analytics]] — Vol 2; analytics capability that data quality enables
 - [[Cybersecurity]] — Vol 2; security practices that protect data integrity
-- [[Ethical Data Use]] — privacy compliance is a dimension of data integrity
+- [[Ethical Data Use+]] — privacy compliance is a dimension of data integrity
 
 ## Appears in
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 2, Ch. 4)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking

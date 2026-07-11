@@ -19,10 +19,10 @@ source_books:
 
 ## My Synthesis
 [[Digital Readiness Assessment]]
-[[LEAN]]
-[[Lean Six Sigma]]
+[[LEAN+]]
+[[Lean Six Sigma+]]
 [[Agile and Lean Practices]]
 [[Digital Transformation Strategy]]
 [[Risk Management in Digital Transformation]]
-[[Business Process Automation]]
-[[Data as Organisational Asset]]
+[[Business Process Automation+]]
+[[Data as Organisational Asset+]]

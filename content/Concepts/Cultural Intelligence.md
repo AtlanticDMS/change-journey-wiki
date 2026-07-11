@@ -9,10 +9,10 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[Change Management]]"
-- "[[Communication Strategy]]"
-- "[[Employee Involvement]]"
-- "[[Incremental vs Radical Change]]"
+  - "[[Change Management]]"
+  - "[[Communication Strategy]]"
+  - "[[Employee Involvement+]]"
+  - "[[Themes/Incremental vs Radical Change]]"
 ---
 
 ## Definition
@@ -36,15 +36,15 @@ Collectivist cultures (e.g. China, Japan, many African and Latin American countr
 
 ## Related concepts
 - [[Communication Strategy]] — must be adapted based on cultural context
-- [[Employee Involvement]] — participation models differ across cultures
+- [[Employee Involvement+]] — participation models differ across cultures
 - [[Change Coalition]] — diverse coalitions require culturally intelligent leadership
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 3)
 
 ## Themes this concept feeds
-- [[Cultural Sensitivity in Organisations]]
-- [[Human Side of Change]]
+- [[+]]
+- [[Human Side of Change+]]
 
 ## My thinking
-This is the sociological angle of [[Change Management]], [[Change Readiness]] and understanding how the [[Human Side of Change]] and [[Cultural Sensitivity in Organisations]] / [[Cultural Intelligence]] drives the planning and execution of the change process.
+This is the sociological angle of [[Change Management]], [[Change Readiness+]] and understanding how the [[Human Side of Change+]] and [[+]] / [[Cultural Intelligence]] drives the planning and execution of the change process.

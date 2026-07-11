@@ -21,10 +21,10 @@ Digital transformation is not optional for SMBs — it is a strategic survival i
 Vol 1 addresses the human and change management side of transformation. Vol 2 addresses the technology and strategy side. Together they form a complete framework — neither volume is sufficient without the other.
 
 - Vol 1 concept [[Leadership Alignment]] is the precondition for Vol 2's [[Digital Transformation Strategy]]
-- Vol 1 concept [[Employee Involvement]] maps directly to Vol 2's [[Digital Culture]]
+- Vol 1 concept [[Employee Involvement+]] maps directly to Vol 2's [[Digital Culture]]
 - Vol 1 concept [[Skill Gap Analysis]] is the people-side of Vol 2's [[Digital Readiness Assessment]]
-- Vol 1 concept [[Ongoing Support Mechanisms]] is the human layer beneath Vol 2's [[Continuous Improvement]]
-- Vol 1 theme [[Human Side of Change]] runs as a thread through Vol 2's Ch. 4 on digital culture
+- Vol 1 concept [[Ongoing Support Mechanisms+]] is the human layer beneath Vol 2's [[Continuous Improvement]]
+- Vol 1 theme [[Human Side of Change+]] runs as a thread through Vol 2's Ch. 4 on digital culture
 
 ## Key concepts
 - [[Digital Transformation]] — foundational definition and scope
@@ -36,25 +36,25 @@ Vol 1 addresses the human and change management side of transformation. Vol 2 ad
 - [[Generative AI]] — LLMs, prompt engineering, content generation
 - [[Robotic Process Automation]] — RPA for automating repetitive tasks
 - [[Data Analytics]] — collecting, analysing, and actioning business data
-- [[Customer Journey Optimisation]] — digital touchpoints and experience design
+- [[Concepts/Customer Journey Optimisation]] — digital touchpoints and experience design
 - [[Customer Segmentation]] — data-driven targeting and personalisation
-- [[Business Process Automation]] — department-by-department automation opportunities
+- [[Business Process Automation+]] — department-by-department automation opportunities
 - [[Cybersecurity]] — frameworks, best practices, and employee awareness
 - [[Cloud Computing]] — IaaS, PaaS, SaaS models and provider landscape
 - [[Risk Management in Digital Transformation]] — identifying and mitigating transformation risks
 - [[Agile and Lean Practices]] — methodologies for continuous improvement post-transformation
-- [[Knowledge Management]] — capturing and sharing organisational knowledge
+- [[Knowledge Management+]] — capturing and sharing organisational knowledge
 
 ## Key people referenced
 - [[Claude Shannon]] — father of digital circuit design theory; originator of information theory
 
 ## Themes this book contributes to
-- [[Human Side of Change]]
-- [[Leadership as Catalyst]]
+- [[Human Side of Change+]]
+- [[Leadership as Catalyst+]]
 - [[Continuous Improvement]]
 - [[Concepts/Technology as Business Strategy]]
-- [[Customer-Centricity]]
-- [[Data as Organisational Asset]]
+- [[Customer-Centricity+]]
+- [[Data as Organisational Asset+]]
 
 ## Memorable quotes
 - [[Quote - Digital transformation is a strategic necessity not an option]]
@@ -71,5 +71,5 @@ Vol 1 addresses the human and change management side of transformation. Vol 2 ad
 
 ## Links to other books
 - Extends: [[Change Management - A Guidebook for SMB Leaders]] (Vol 1 — human side)
-- Agrees with: [[The Lean Startup]] (recommended reading — agile/lean alignment)
-- Agrees with: [[The Innovator's Dilemma]] (recommended reading — disruption framing)
+- Agrees with: [[Concepts/The Lean Startup]] (recommended reading — agile/lean alignment)
+- Agrees with: [[Concepts/The Innovator's Dilemma]] (recommended reading — disruption framing)

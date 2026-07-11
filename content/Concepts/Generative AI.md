@@ -29,7 +29,7 @@ The book discloses that Generative AI was used selectively in the creation of th
 ## Related concepts
 - [[Artificial Intelligence]] — parent category
 - [[Machine Learning]] — technical foundation of generative AI
-- [[Business Process Automation]] — generative AI automates knowledge work, not just rules-based tasks
+- [[Business Process Automation+]] — generative AI automates knowledge work, not just rules-based tasks
 - [[Customer Segmentation]] — generative AI can craft personalised messages at segment level
 
 ## Appears in

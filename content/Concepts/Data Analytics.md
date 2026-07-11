@@ -30,13 +30,13 @@ Demographic, geographic, psychographic, behavioural, transactional, engagement, 
 - [[Artificial Intelligence]] — AI is the advanced layer on top of analytics infrastructure
 - [[Machine Learning]] — ML enables predictive and prescriptive analytics at scale
 - [[Customer Segmentation]] — analytics is the engine of effective segmentation
-- [[Data as Organisational Asset]] — the theme this concept most directly feeds
+- [[Data as Organisational Asset+]] — the theme this concept most directly feeds
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 5, Ch. 7)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 - [[Concepts/Technology as Business Strategy]]
 
 ## My thinking

@@ -34,7 +34,7 @@ Data storytelling is the Vol 3 analytical application of Vol 1's [[Communication
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 9)
 
 ## Themes this concept feeds
-- [[Communication in Change]]
+- [[Communication in Change+]]
 - [[Evidence-Based Leadership]]
 
 ## My thinking
@@ -78,7 +78,7 @@ Ethical data use is the Vol 3 governance layer for Vol 2's [[Cybersecurity]] and
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 12)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset]]
-- [[Customer-Centricity]]
+- [[Data as Organisational Asset+]]
+- [[Customer-Centricity+]]
 
 ## My thinking

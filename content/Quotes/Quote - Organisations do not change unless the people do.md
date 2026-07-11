@@ -10,10 +10,10 @@ tags:
   - source/book
 related_concepts:
   - "[[Change Management]]"
-  - "[[Human Side of Change]]"
-  - "[[Employee Involvement]]"
+  - "[[Human Side of Change+]]"
+  - "[[Employee Involvement+]]"
   - "[[Cultural Intelligence]]"
-  - "[[Ongoing Support Mechanisms]]"
+  - "[[Ongoing Support Mechanisms+]]"
 ---
 ## The quote
 
@@ -26,15 +26,15 @@ The single most important sentence in the book. It reframes change management en
 
 ## Concepts this quote supports
 - [[Change Management]]
-- [[Employee Involvement]]
+- [[Employee Involvement+]]
 
 ## Themes this quote feeds
-- [[Human Side of Change]]
-- [[Culture]]
-- [[Employee Involvement]]
+- [[Human Side of Change+]]
+- [[Culture+]]
+- [[Employee Involvement+]]
 - [[Cultural Intelligence]]
 - [[Digital Culture]]
-- [[Leadership as Catalyst]]
-- [[Change Readiness]]
+- [[Leadership as Catalyst+]]
+- [[Change Readiness+]]
 - [[Data-Driven Culture]]
 

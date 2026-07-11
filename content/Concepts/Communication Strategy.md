@@ -8,11 +8,11 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[Change Coalition]]"
-- "[[Leadership Alignment]]"
-- "[[Cultural Intelligence]]"
-- "[[Employee Involvement]]"
-- "[[Kotter 8-Step Model]]"
+  - "[[Change Coalition]]"
+  - "[[Leadership Alignment]]"
+  - "[[Cultural Intelligence]]"
+  - "[[Employee Involvement+]]"
+  - "[[Kotter 8-Step Model]]"
 ---
 
 ## Definition
@@ -51,8 +51,8 @@ The content of a message and the style and channel of delivery are equally impor
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4 & 5)
 
 ## Themes this concept feeds
-- [[Communication in Change]]
-- [[Human Side of Change]]
+- [[Communication in Change+]]
+- [[Human Side of Change+]]
 - [[Employee Involvement and Ongoing Support]]
 
 ## My thinking

@@ -29,7 +29,7 @@ John Kotter is a Harvard Business School professor and one of the world's foremo
 - [[Change Management - A Guidebook for SMB Leaders]]
 
 ## Themes they are connected to
-- [[Leadership as Catalyst]]
-- [[Human Side of Change]]
+- [[Leadership as Catalyst+]]
+- [[Human Side of Change+]]
 
 ## My view

@@ -12,8 +12,8 @@ tags: [type/index, topic/change-management]
 
 ## Core concepts
 - [[Change Management]] — the discipline defined
-- [[Incremental vs Radical Change]] — spectrum of change types
-- [[Planned vs Unplanned Change]] — proactive vs reactive change
+- [[Themes/Incremental vs Radical Change]] — spectrum of change types
+- [[Themes/Planned vs Unplanned Change]] — proactive vs reactive change
 - [[Kotter 8-Step Model]] — sequential framework for planned change
 - [[Lewin Change Model]] — Unfreeze / Change / Refreeze
 - [[ADKAR Model]] — individual-level change adoption
@@ -21,16 +21,16 @@ tags: [type/index, topic/change-management]
 - [[Leadership Alignment]] — unified leadership as precondition
 - [[Change Coalition]] — distributed leadership team
 - [[Communication Strategy]] — narrative and channel design
-- [[Employee Involvement]] — participative change design
+- [[Employee Involvement+]] — participative change design
 - [[Skill Gap Analysis]] — 12-step framework for capability planning
 - [[KPIs for Change]] — 10 metrics for measuring change success
-- [[Ongoing Support Mechanisms]] — sustaining people post-transition
+- [[Ongoing Support Mechanisms+]] — sustaining people post-transition
 
 ## Big themes
-- [[Human Side of Change]] — people, not systems, are the real challenge
-- [[Leadership as Catalyst]] — leaders must embody the change
-- [[Communication in Change]] — narrative is as important as strategy
-- [[Cultural Sensitivity in Organisations]] — no one-size-fits-all approach
+- [[Human Side of Change+]] — people, not systems, are the real challenge
+- [[Leadership as Catalyst+]] — leaders must embody the change
+- [[Communication in Change+]] — narrative is as important as strategy
+- [[+]] — no one-size-fits-all approach
 - [[Continuous Improvement]] — change is ongoing, not episodic
 
 ## Key people
@@ -41,7 +41,7 @@ tags: [type/index, topic/change-management]
 ## Best entry points
 Start here if new to this topic:
 - [[Change Management]] — foundational definition
-- [[Human Side of Change]] — the central thesis of the vol 1 book
+- [[Human Side of Change+]] — the central thesis of the vol 1 book
 - [[Kotter 8-Step Model]] — the most practical starting framework
 
 ## Open questions

@@ -32,6 +32,6 @@ ML systems are trained on historical data. The algorithm identifies patterns and
 
 ## Themes this concept feeds
 - [[Concepts/Technology as Business Strategy]]
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking

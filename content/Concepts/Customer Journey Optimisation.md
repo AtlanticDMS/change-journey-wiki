@@ -18,11 +18,11 @@ source_books:
 ## My Synthesis
 
 [[Continuous Improvement]]
-[[Ongoing Support Mechanisms]]
+[[Ongoing Support Mechanisms+]]
 [[Generative AI]]
 [[Data Analytics]]
 [[Cybersecurity]]
 [[Customer Segmentation]]
-[[Customer-Centricity]]
+[[Customer-Centricity+]]
 [[Communication Strategy]]
 [[Artificial Intelligence]]

@@ -9,10 +9,10 @@ tags:
   - source/book
 source_books: "[[Change Management - A Guidebook for SMB Leaders]]"
 related_concepts:
-- "[[Communication Strategy]]"
-- "[[ADKAR Model]]"
-- "[[Change Coalition]]"
-- "[[Ongoing Support Mechanisms]]"
+  - "[[Communication Strategy]]"
+  - "[[ADKAR Model]]"
+  - "[[Change Coalition]]"
+  - "[[Ongoing Support Mechanisms+]]"
 ---
 
 ## Definition
@@ -32,10 +32,10 @@ Employees who have a voice in shaping change are far more likely to embrace it. 
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change]]
+- [[Human Side of Change+]]
 
 ## My thinking
-Without the involvement of all affected employees, the [[Human Side of Change]] breaks apart and resistance to change increases.
+Without the involvement of all affected employees, the [[Human Side of Change+]] breaks apart and resistance to change increases.
 
 
 ---
@@ -44,7 +44,7 @@ type: concept
 topic: [change-management]
 tags: [type/concept, topic/change-management, status/complete, source/book]
 source_books: [[Change Management - A Guidebook for SMB Leaders]]
-related_concepts: [[ADKAR Model]], [[Skill Gap Analysis]], [[Employee Involvement]], [[KPIs for Change]]
+related_concepts: [[ADKAR Model]], [[Skill Gap Analysis]], [[Employee Involvement+]], [[KPIs for Change]]
 ---
 
 ## Definition
@@ -65,7 +65,7 @@ Five categories of ongoing support:
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change]]
+- [[Human Side of Change+]]
 - [[Continuous Improvement]]
 
 ## My thinking

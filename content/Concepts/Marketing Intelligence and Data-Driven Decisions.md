@@ -39,8 +39,8 @@ Marketing intelligence is the application layer that gives [[Data Analytics]] (V
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 1)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset]]
-- [[Customer-Centricity]]
+- [[Data as Organisational Asset+]]
+- [[Customer-Centricity+]]
 
 ## My thinking
 
@@ -84,6 +84,6 @@ Data-driven decision making is the Vol 3 answer to the question Vol 2 raises —
 
 ## Themes this concept feeds
 - [[Evidence-Based Leadership]]
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking

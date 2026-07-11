@@ -25,11 +25,11 @@ The book outlines a 7-step readiness assessment process:
 7. **Competitive benchmarking** — compare digital maturity against industry peers to identify urgency and opportunity
 
 ## Cross-volume link
-Directly mirrors [[Change Readiness]] (Vol 1 KPI concept) — the organisational readiness measured here is the same readiness that Vol 1's change management frameworks are designed to build. [[Skill Gap Analysis]] (Vol 1) should be run in parallel with the skills assessment step above.
+Directly mirrors [[Change Readiness+]] (Vol 1 KPI concept) — the organisational readiness measured here is the same readiness that Vol 1's change management frameworks are designed to build. [[Skill Gap Analysis]] (Vol 1) should be run in parallel with the skills assessment step above.
 
 ## Related concepts
 - [[Digital Transformation Strategy]] — the output of a readiness assessment feeds directly into strategy design
-- [[Change Readiness]] — Vol 1 human-side equivalent
+- [[Change Readiness+]] — Vol 1 human-side equivalent
 - [[Skill Gap Analysis]] — Vol 1 workforce capability framework that aligns with step 3 above
 - [[Risk Management in Digital Transformation]] — readiness gaps become risk inputs
 

@@ -19,8 +19,8 @@ source_books:
 
 
 ## My Synthesis
-[[Strategy Before Technology]]
-[[Change Readiness]]
+[[Strategy Before Technology+]]
+[[Change Readiness+]]
 [[Generative AI]]
 [[Data Analytics]]
 [[Digital Transformation Strategy]]
@@ -32,4 +32,4 @@ source_books:
 [[Digital Readiness Assessment]]
 [[Digital Transformation MOC]]
 [[Concepts/Technology as Business Strategy]]
-[[Data as Organisational Asset]]
+[[Data as Organisational Asset+]]

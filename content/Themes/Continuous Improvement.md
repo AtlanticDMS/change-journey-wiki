@@ -10,8 +10,8 @@ tags:
   - status/complete
 related_concepts:
   - "[[Digital Transformation Strategy]]"
-  - "[[Ongoing Support Mechanisms]]"
-  - "[[Employee Involvement]]"
+  - "[[Ongoing Support Mechanisms+]]"
+  - "[[Employee Involvement+]]"
   - "[[KPIs for Change]]"
 source_books:
   - "[[AI and Digital Transformation - A Guidebook for SMB Leaders]]"
@@ -30,20 +30,20 @@ Vol 3 Ch. 13 frames data analytics itself as a continuous improvement discipline
 
 **Key concepts under this theme:**
 - [[Agile and Lean Practices]] — Vol 2; the methodology for continuous improvement
-- [[Ongoing Support Mechanisms]] — Vol 1; the human infrastructure for sustained change
+- [[Ongoing Support Mechanisms+]] — Vol 1; the human infrastructure for sustained change
 - [[KPIs for Change]] — Vol 1; measuring whether improvement is actually occurring
 - [[Risk Management in Digital Transformation]] — Vol 2; continuous risk review as improvement practice
-- [[Concepts/Marketing ROI Measurement]] — the measurement loop that enables continuous improvement
+- [[Marketing ROI Measurement+]] — the measurement loop that enables continuous improvement
 - [[Predictive Analytics]] — anticipate shifts before they require reactive correction
 
 ## My Synthesis
 
-[[Change Readiness]]
-[[Employee Involvement]]
-[[Ongoing Support Mechanisms]]
-[[Incremental vs Radical Change]]
+[[Change Readiness+]]
+[[Employee Involvement+]]
+[[Ongoing Support Mechanisms+]]
+[[Themes/Incremental vs Radical Change]]
 [[Quote - Change is not a discrete event but a continuous process]]
 [[Quote - Organisations do not change unless the people do]]
-[[Planned vs Unplanned Change]]
+[[Themes/Planned vs Unplanned Change]]
 [[Change Management]]
 [[KAIZEN]]

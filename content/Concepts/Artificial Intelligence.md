@@ -36,13 +36,13 @@ AI is the central enabling technology of the current wave of digital transformat
 - [[Generative AI]] — fastest growing; most accessible to SMBs right now
 - [[Robotic Process Automation]] — automation that bridges AI and legacy process
 - [[Data Analytics]] — AI requires data; analytics is how that data is used
-- [[Business Process Automation]] — the practical application layer of AI
+- [[Business Process Automation+]] — the practical application layer of AI
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 5)
 
 ## Themes this concept feeds
 - [[Concepts/Technology as Business Strategy]]
-- [[Data as Organisational Asset]]
+- [[Data as Organisational Asset+]]
 
 ## My thinking
