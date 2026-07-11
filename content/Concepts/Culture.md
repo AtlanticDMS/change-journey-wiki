@@ -40,8 +40,7 @@ The series treats structure and culture as inseparable: without strong structure
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[+]]
+- [[Human Side of Change]]
 
 ## My thinking
 - [[Cultural Intelligence]]

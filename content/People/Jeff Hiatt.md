@@ -31,14 +31,14 @@ Hiatt shifted the centre of gravity in change management theory from the organis
 - [[ADKAR Model]] — his primary contribution to the field
 - [[Kotter 8-Step Model]] — organisational-level counterpart
 - [[Lewin Change Model]] — earlier, broader framework ADKAR complements
-- [[Employee Involvement+]] — operationalises ADKAR's Desire and Knowledge stages
+- [[Employee Involvement]] — operationalises ADKAR's Desire and Knowledge stages
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2, Literature Review)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Change Readiness+]]
+- [[Human Side of Change]]
+- [[Change Readiness]]
 - [[Change Management]]
 - [[KPIs for Change]]
 

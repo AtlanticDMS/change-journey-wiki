@@ -36,7 +36,7 @@ The analytics framework is the Vol 3 operational answer to Vol 2's [[Digital Rea
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset+]]
-- [[Concepts/Technology as Business Strategy]]
+- [[Data as Organisational Asset]]
+- [[Technology as Business Strategy]]
 
 ## My thinking

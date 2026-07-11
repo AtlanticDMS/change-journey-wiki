@@ -29,7 +29,7 @@ The series argues that even businesses without an obvious e-commerce presence (a
 - From [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 5): customer journey mapping is described as revealing that segments like "frequent buyers" and "lapsed customers" require entirely different touchpoint strategies.
 
 ## Related concepts
-- [[Customer-Centricity+]] — the philosophical foundation this practice operationalises
+- [[Customer-Centricity]] — the philosophical foundation this practice operationalises
 - [[Customer Segmentation]] — journey optimisation is most effective when tailored per segment
 - [[Digital Culture]] — sustaining journey optimisation requires an organisation-wide customer-first mindset
 - [[Customer Analytics]] — the data layer that makes journey optimisation measurable
@@ -43,5 +43,5 @@ Vol II's digital touchpoint mapping and Vol III's customer segmentation and life
 
 ## My thinking
 - [[Customer Analytics]]
-- [[Customer-Centricity+]]
+- [[Customer-Centricity]]
 - [[Customer Segmentation]] 

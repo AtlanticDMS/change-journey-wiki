@@ -44,9 +44,9 @@ Vol I's employee involvement in change design maps directly onto Vol II's [[Digi
 
 ## My thinking
 
-- [[Ongoing Support Mechanisms+]]
-- [[Leadership as Catalyst+]]
+- [[Ongoing Support Mechanisms]]
+- [[Leadership as Catalyst]]
 - [[Continuous Improvement]]
 - [[Change Readiness]]
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Communication in Change]]

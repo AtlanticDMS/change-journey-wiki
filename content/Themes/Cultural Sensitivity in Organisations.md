@@ -45,7 +45,7 @@ Vol I's [[Cultural Intelligence]] and Vol III's [[Customer Segmentation]] both i
 ## My thinking
 - [[Communication in Change]]
 - [[Change Readiness]]
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Cultural Intelligence]]
 - [[Communication Strategy]]
 [[Employee Involvement and Ongoing Support]]

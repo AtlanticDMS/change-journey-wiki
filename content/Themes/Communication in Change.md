@@ -43,36 +43,36 @@ Data Storytelling (Ch. 9) is a direct contribution to this theme — the ability
 
 ## Related concepts
 - [[Communication Strategy]] — the Vol I concept-level treatment of this theme
-- [[Leadership as Catalyst+]] — leaders are the primary communication channel in any change effort
-- [[Concepts/Data Storytelling]] — the Vol III analytics-specific expression of the same underlying skill
+- [[Leadership as Catalyst]] — leaders are the primary communication channel in any change effort
+- [[Data Storytelling]] — the Vol III analytics-specific expression of the same underlying skill
 - [[Change Coalition]] — a distributed team that extends communication reach across the organisation
 - [[Cultural Intelligence]] — adapting communication to cultural context
-- [[Employee Involvement+]] — two-way communication as a participation strategy
+- [[Employee Involvement]] — two-way communication as a participation strategy
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 5)
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 3–4)
 
 ## Cross-volume bridge
-Vol I's [[Communication Strategy]] and Vol III's [[Concepts/Data Storytelling]] are the same discipline applied to different content — translating complexity (organisational change / data insight) into narratives that move people to act.
+Vol I's [[Communication Strategy]] and Vol III's [[Data Storytelling]] are the same discipline applied to different content — translating complexity (organisational change / data insight) into narratives that move people to act.
 
 ## My thinking
 Incorporates the following subtopics:
-- [[Planned vs Unplanned Change+]]
-- [[Ongoing Support Mechanisms+]]
-- [[Leadership as Catalyst+]]
+- [[Planned vs Unplanned Change]]
+- [[Ongoing Support Mechanisms]]
+- [[Leadership as Catalyst]]
 - [[KAIZEN]]
-- [[Incremental vs Radical Change+]]
-- [[Employee Involvement+]]
+- [[Incremental vs Radical Change]]
+- [[Employee Involvement]]
 - [[+]]
 - [[Continuous Improvement]]
-- [[Communication in Change+]]
+- [[Communication in Change]]
 - [[Change Readiness]]
 - [[Agile]]
 - [[LEAN]]
 - [[Culture]]
 - [[LEAN Six Sigma]]
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Cultural Intelligence]]
 - [[Leadership Alignment]]
 - [[Employee Involvement and Ongoing Support]]

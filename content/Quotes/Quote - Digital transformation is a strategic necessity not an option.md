@@ -24,8 +24,8 @@ related_concepts:
 The clearest statement of urgency in the book. Pairs directly with Vol 1's urgency-building step in the [[Kotter 8-Step Model]] — the "why change" argument applies as much to digital transformation as to any organisational change.
 
 ## Themes this quote feeds
-- [[Concepts/Technology as Business Strategy]]
-- [[Human Side of Change+]]
+- [[Technology as Business Strategy]]
+- [[Human Side of Change]]
 - [[Digital Culture]]
 - [[Digital Transformation]]
 - [[Digital Transformation Strategy]]

@@ -24,10 +24,10 @@ The closing call to action of the book — and of the series so far. Curiosity m
 
 ## Themes this quote feeds
 - [[Continuous Improvement]]
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 -  [[Digital Transformation]]
 - [[Digital Readiness Assessment]]
 - [[Digital Culture]]
-- [[Agile+]]
+- [[Agile]]
 - [[Agile and Lean Practices]]
-- [[Leadership as Catalyst+]]
+- [[Leadership as Catalyst]]

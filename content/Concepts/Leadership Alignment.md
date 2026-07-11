@@ -41,7 +41,7 @@ Leadership misalignment is one of the most common and damaging failure points in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Leadership as Catalyst+]]
+- [[Leadership as Catalyst]]
 
 ## My thinking
 Having all leadership aligned on the goals, milestones, processes, [[Communication Strategy]] and [[KPIs for Change]] is essential for success.

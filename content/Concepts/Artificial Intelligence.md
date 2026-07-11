@@ -42,7 +42,7 @@ AI is the central enabling technology of the current wave of digital transformat
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 5)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
-- [[Data as Organisational Asset+]]
+- [[Technology as Business Strategy]]
+- [[Data as Organisational Asset]] 
 
 ## My thinking

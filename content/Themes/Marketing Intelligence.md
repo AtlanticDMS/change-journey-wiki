@@ -37,6 +37,6 @@ Marketing intelligence is presented as the connective discipline linking data co
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 1–3)
 
 ## Cross-volume bridge
-Marketing intelligence sits at the intersection of [[Democratisation of Expertise]] (Vol II's infrastructure theme) and [[Data-Driven Decision Making]] (Vol III's own core thesis) — it is the specific business function where both trends converge most visibly for SMB leaders.
+Marketing intelligence sits at the intersection of [[Democratisation of Expertise]] (Vol II's infrastructure theme) and [[Themes/Data-Driven Decision Making]] (Vol III's own core thesis) — it is the specific business function where both trends converge most visibly for SMB leaders.
 
 ## My thinking

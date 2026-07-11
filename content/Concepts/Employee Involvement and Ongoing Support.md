@@ -32,40 +32,7 @@ Employees who have a voice in shaping change are far more likely to embrace it. 
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 
 ## My thinking
-Without the involvement of all affected employees, the [[Human Side of Change+]] breaks apart and resistance to change increases.
-
-
----
-title: "Ongoing Support Mechanisms"
-type: concept
-topic: [change-management]
-tags: [type/concept, topic/change-management, status/complete, source/book]
-source_books: [[Change Management - A Guidebook for SMB Leaders]]
-related_concepts: [[ADKAR Model]], [[Skill Gap Analysis]], [[Employee Involvement+]], [[KPIs for Change]]
----
-
-## Definition
-The sustained provision of resources, structures, and human support that employees need to fully adopt and maintain new behaviours — both during and after a transformation is formally complete.
-
-## Why it matters
-Not everyone adapts at the same pace. Withdrawing support too early — once the implementation milestone is reached — is one of the most common causes of change initiative failure and talent attrition.
-
-## How it works
-Five categories of ongoing support:
-1. **Feedback mechanisms** — regular surveys, town halls, anonymous platforms; enables leadership to course-correct and signals that employee voices matter
-2. **Mentorship programs** — pairing experienced employees with those navigating new roles; provides practical guidance, emotional support, and early resistance detection
-3. **Continuous training** — workshops, webinars, online platforms; prevents skill stagnation in a dynamic environment
-4. **Additional resources** — documentation, knowledge bases, specialist support teams, workspace modifications
-5. **Emotional support** — employee assistance programs, counselling, open discussion forums; the most commonly overlooked dimension of change support
-
-## Appears in
-- [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4)
-
-## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Continuous Improvement]]
-
-## My thinking
+Without the involvement of all affected employees, the [[Human Side of Change]] breaks apart and resistance to change increases.

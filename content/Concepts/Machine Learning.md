@@ -31,7 +31,7 @@ ML systems are trained on historical data. The algorithm identifies patterns and
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 5)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
-- [[Data as Organisational Asset+]]
+- [[Technology as Business Strategy]]
+- [[Data as Organisational Asset]]
 
 ## My thinking

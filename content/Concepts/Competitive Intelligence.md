@@ -33,13 +33,13 @@ Competitive intelligence feeds directly into Vol 2's [[Digital Transformation St
 - [[Digital Transformation Strategy]] — Vol 2; competitive intelligence informs strategy design
 - [[Kotter 8-Step Model]] — Vol 1; competitive data builds urgency for change
 - [[Marketing ROI Measurement+]] — benchmarking requires knowing industry-standard ROI metrics
-- [[Data-Driven Decision Making]] — competitive intelligence is one of its key inputs
+- [[Themes/Data-Driven Decision Making]] — competitive intelligence is one of its key inputs
 
 ## Appears in
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 7)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset+]]
-- [[Concepts/Technology as Business Strategy]]
+- [[Data as Organisational Asset]]
+- [[Technology as Business Strategy]]
 
 ## My thinking

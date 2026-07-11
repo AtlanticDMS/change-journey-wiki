@@ -14,13 +14,12 @@ related_concepts:
   - "[[Lewin Change Model]]"
   - "[[Cultural Intelligence]]"
   - "[[Leadership Alignment]]"
-  - "[[Change Readiness+]]"
 year: "2024"
 series: '"Change Journey Vol 1"'
 isbn: "9798321830789"
 ---
 
-related_themes: [[Human Side of Change+]], [[Leadership as Catalyst+]], [[Communication in Change+]]
+related_themes: [[Human Side of Change]], [[Leadership as Catalyst]], [[Communication in Change]]
 ---
 
 ## Summary
@@ -52,10 +51,9 @@ Successful organisational change is fundamentally a human challenge, not a struc
 - [[Jeff Hiatt]] — creator of the ADKAR model
 
 ## Themes this book contributes to
-- [[Human Side of Change+]]
-- [[Leadership as Catalyst+]]
-- [[Communication in Change+]]
-- [[+]]
+- [[Human Side of Change]]
+- [[Leadership as Catalyst]]
+- [[Communication in Change]]
 - [[Continuous Improvement]]
 
 ## Memorable quotes

@@ -74,7 +74,7 @@ In modern commercial settings, effective KM is not a standalone “documentation
 ## Related concepts
 - [[Data-Driven Culture]] — Knowledge Management is a key enabler of a data-driven organisational culture
 - [[Continuous Improvement]] — iterative knowledge development feeds ongoing improvement cycles
-- [[Employee Involvement+]] — implicit knowledge capture depends on active employee participation
+- [[Employee Involvement]] — implicit knowledge capture depends on active employee participation
 - [[Digital Culture]] — KMS adoption is a marker of a mature digital culture
 
 ## Appears in
@@ -82,15 +82,15 @@ In modern commercial settings, effective KM is not a standalone “documentation
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (throughout)
 
 ## Themes this concept feeds
-- [[Strategy Before Technology+]]
+- [[Strategy Before Technology]]
 - [[Continuous Improvement]]
 
 ## My thinking
 
 - [[Data Analytics]]
-- [[Data as Organisational Asset+]]
+- [[Data as Organisational Asset]]
 - [[Digital Transformation]]
-- [[Business Process Automation+]]
-- [[Concepts/Technology as Business Strategy]]
-- [[Culture+]]
+- [[Business Process Automation]]
+- [[Technology as Business Strategy]]
+- [[Culture]]
 - [[Digital Culture]]

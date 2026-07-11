@@ -24,11 +24,11 @@ The single sharpest line in the epilogue. It reframes digital transformation fro
 - [[Agile and Lean Practices]]
 
 ## Themes this quote feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Continuous Improvement]]
 - [[Continuous Improvement]]
 - [[Risk Management in Digital Transformation]]
-- [[LEAN+]]
-- [[Lean Six Sigma+]]
-- [[Agile+]]
+- [[LEAN]]
+- [[LEAN Six Sigma]]
+- [[Agile]]
 - [[Agile and Lean Practices]]

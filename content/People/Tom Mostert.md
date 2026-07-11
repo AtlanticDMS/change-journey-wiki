@@ -51,14 +51,14 @@ The series' credibility rests heavily on Mostert's practitioner background — d
 
 ## Examples from the books
 - From [[Change Management - A Guidebook for SMB Leaders]] Introduction: describes leading a culturally diverse multinational team and using that experience to illustrate [[Cultural Intelligence]].
-- From [[AI and Digital Transformation - A Guidebook for SMB Leaders]] Ch. 5: recounts building a knowledge management function at a "global healthcare brand" (Philips) to illustrate the value of [[Knowledge Management+]].
+- From [[AI and Digital Transformation - A Guidebook for SMB Leaders]] Ch. 5: recounts building a knowledge management function at a "global healthcare brand" (Philips) to illustrate the value of [[Knowledge Management]].
 - From [[Change_Journey_Strategic_Framework]]: positioned as bringing "direct multi-industry, multi-cultural consulting experience" that makes the frameworks "tested, not theoretical."
 
 ## Related concepts
-- [[Change Journey Series MOC+]] — the master index of his work
-- [[Human Side of Change+]] — his stated core philosophy
+- [[Change Journey Series MOC]] — the master index of his work
+- [[Human Side of Change]] — his stated core philosophy
 - [[Cultural Intelligence]] — drawn directly from his career experience
-- [[Knowledge Management+]] — a recurring professional specialism referenced across volumes
+- [[Knowledge Management]] — a recurring professional specialism referenced across volumes
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Introduction, throughout)
@@ -66,8 +66,8 @@ The series' credibility rests heavily on Mostert's practitioner background — d
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (throughout)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Strategy Before Technology+]]
+- [[Human Side of Change]]
+- [[Strategy Before Technology]]
 - [[Quote - Change is not a discrete event but a continuous process]]
 - [[Quote - Trust takes years to build and one misstep to undo]]
 

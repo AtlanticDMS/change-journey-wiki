@@ -42,7 +42,7 @@ Strategy without aligned leadership will fail. [[Leadership Alignment]] (Vol 1) 
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 3)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
-- [[Leadership as Catalyst+]]
+- [[Technology as Business Strategy]]
+- [[Leadership as Catalyst]]
 
 ## My thinking

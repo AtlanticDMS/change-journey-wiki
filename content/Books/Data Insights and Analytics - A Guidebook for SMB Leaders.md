@@ -24,24 +24,24 @@ Vol 3 is the data and analytics layer that sits beneath Vol 2's digital transfor
 - Vol 3's [[Data Quality and Integrity]] is the operational foundation for Vol 2's [[Data Analytics]]
 - Vol 3's [[Predictive Analytics]] is the advanced application of Vol 2's [[Machine Learning]]
 - Vol 3's [[Customer Analytics]] extends Vol 2's [[Customer Segmentation]]
-- Vol 3's [[Marketing ROI Measurement+]] gives metrics teeth to Vol 1's [[KPIs for Change]]
+- Vol 3's [[Marketing ROI Measurement]] gives metrics teeth to Vol 1's [[KPIs for Change]]
 - Overcoming resistance to data adoption (Ch. 4.5) directly applies Vol 1's [[ADKAR Model]] and [[Change Coalition]]
 - Vol 3's [[Concepts/Analytics Framework]] is the operational setup that Vol 2's [[Digital Readiness Assessment]] identifies as a need
 
 ## Key concepts
 - [[DYOR - Do Your Own Research]] — foundational principle of evidence-based decision-making
 - [[Marketing Intelligence]] — evolution from focus groups to AI-powered analytics
-- [[Data-Driven Decision Making]] — the business case and practice of evidence-based choices
+- [[Themes/Data-Driven Decision Making]] — the business case and practice of evidence-based choices
 - [[Concepts/Analytics Framework]] — the organisational infrastructure for systematic data use
 - [[Data-Driven Culture]] — embedding analytics thinking into organisational DNA
 - [[Data Quality and Integrity]] — clean data as the foundation of actionable insight
 - [[Customer Analytics]] — segmentation, CLV, churn prediction, and personalisation
 - [[Competitive Intelligence]] — benchmarking, market research, and competitive positioning
 - [[Predictive Analytics]] — forecasting future outcomes from historical patterns
-- [[Concepts/Data Storytelling]] — translating analytical findings into compelling narratives
-- [[Marketing ROI Measurement+]] — attribution models, budget optimisation, and performance metrics
-- [[Ethical Data Use+]] — privacy, compliance, bias awareness, and responsible analytics
-- [[Research Methods for SMBs+]] — qualitative and quantitative tools scaled for limited resources
+- [[Data Storytelling]] — translating analytical findings into compelling narratives
+- [[Marketing ROI Measurement]] — attribution models, budget optimisation, and performance metrics
+- [[Ethical Data Use]] — privacy, compliance, bias awareness, and responsible analytics
+- [[Research Methods for SMBs]] — qualitative and quantitative tools scaled for limited resources
 - [[Cognitive Biases in Research]] — 10+ biases that distort data collection and interpretation
 
 ## Key people referenced
@@ -50,11 +50,11 @@ Vol 3 is the data and analytics layer that sits beneath Vol 2's digital transfor
 - [[W. Edwards Deming]] — "In God we trust, all others must bring data"
 
 ## Themes this book contributes to
-- [[Data as Organisational Asset+]]
-- [[Customer-Centricity+]]
+- [[Data as Organisational Asset]]
+- [[Customer-Centricity]]
 - [[Continuous Improvement]]
-- [[Technology as Business Strategy+]]
-- [[Human Side of Change+]]
+- [[Technology as Business Strategy]]
+- [[Human Side of Change]]
 - [[Evidence-Based Leadership]]
 
 ## Memorable quotes
@@ -73,4 +73,4 @@ Vol 3 is the data and analytics layer that sits beneath Vol 2's digital transfor
 ## Links to other books
 - Extends: [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Vol 2 — digital strategy)
 - Extends: [[Change Management - A Guidebook for SMB Leaders]] (Vol 1 — human change)
-- Agrees with: [[Concepts/The Lean Startup]] (test, learn, iterate)
+- Agrees with: [[The Lean Startup]] (test, learn, iterate)

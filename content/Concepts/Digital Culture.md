@@ -31,11 +31,11 @@ Technology can be purchased; culture must be grown. Organisations that invest in
 This chapter explicitly bridges back to Vol 1: resistance to technology adoption follows the same patterns as resistance to organisational change. The [[ADKAR Model]] (Vol 1) applies directly — employees must move through Awareness → Desire → Knowledge → Ability → Reinforcement for each new tool or process.
 
 ## Cross-volume link
-This concept is the technology-side expression of [[Human Side of Change+]] (Vol 1 theme). [[Employee Involvement+]] (Vol 1) is the participatory mechanism for building digital culture. [[Cultural Intelligence]] (Vol 1) is essential for building digital culture across diverse workforces.
+This concept is the technology-side expression of [[Human Side of Change]] (Vol 1 theme). [[Employee Involvement]] (Vol 1) is the participatory mechanism for building digital culture. [[Cultural Intelligence]] (Vol 1) is essential for building digital culture across diverse workforces.
 
 ## Related concepts
 - [[Leadership Alignment]] — Vol 1; culture starts with leadership behaviour
-- [[Employee Involvement+]] — Vol 1; participation builds ownership
+- [[Employee Involvement]] — Vol 1; participation builds ownership
 - [[ADKAR Model]] — Vol 1; individual adoption model applies to tool uptake
 - [[Communication Strategy]] — Vol 1; communicating the digital vision
 - [[Continuous Improvement]] — culture sustains transformation beyond go-live
@@ -44,8 +44,8 @@ This concept is the technology-side expression of [[Human Side of Change+]] (Vol
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Concepts/Technology as Business Strategy]]
-- [[Leadership as Catalyst+]]
+- [[Human Side of Change]]
+- [[Technology as Business Strategy]]
+- [[Leadership as Catalyst]]
 
 ## My thinking

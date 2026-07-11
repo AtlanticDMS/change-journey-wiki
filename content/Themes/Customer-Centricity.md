@@ -59,7 +59,7 @@ Vol II's customer-centric digital experience design and Vol III's customer analy
 
 ## My thinking
 - [[Customer Segmentation]]
-- [[Concepts/Customer Journey Optimisation]]
+- [[Customer Journey Optimisation]]
 - [[Knowledge Management]]
 - [[Strategy Before Technology]]
 - [[Human Side of Change]]

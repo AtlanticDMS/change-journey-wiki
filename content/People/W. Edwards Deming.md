@@ -29,7 +29,7 @@ W. Edwards Deming (1900–1993) was an American statistician and quality managem
 ## Themes they are connected to
 - [[Evidence-Based Leadership]]
 - [[Continuous Improvement]]
-- [[Data as Organisational Asset+]]
+- [[Data as Organisational Asset]]
 
 ## My view
 

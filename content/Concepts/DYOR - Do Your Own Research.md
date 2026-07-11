@@ -25,7 +25,7 @@ DYOR in a business context means:
 DYOR is the epistemological foundation underlying Vol 2's [[Digital Readiness Assessment]] (assess your own reality before adopting technology) and Vol 1's [[Change Readiness+]] (understand your own organisation before launching change). All three volumes share the same meta-principle: know your own situation before acting.
 
 ## Related concepts
-- [[Data-Driven Decision Making]] — the systematic practice that DYOR enables
+- [[Themes/Data-Driven Decision Making]] — the systematic practice that DYOR enables
 - [[Cognitive Biases in Research]] — the internal biases that DYOR must guard against
 - [[Data Quality and Integrity]] — DYOR requires trustworthy data to be meaningful
 
@@ -34,6 +34,6 @@ DYOR is the epistemological foundation underlying Vol 2's [[Digital Readiness As
 
 ## Themes this concept feeds
 - [[Evidence-Based Leadership]]
-- [[Data as Organisational Asset+]]
+- [[Data as Organisational Asset]]
 
 ## My thinking

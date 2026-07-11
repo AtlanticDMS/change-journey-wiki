@@ -21,7 +21,7 @@ tags:
 Sustainable organisational transformation requires human change management, technology strategy, and data intelligence — executed together, not sequentially. Human change without tools stalls. Tools without willing people go unused. Both without evidence produce activity without direction.
 
 ## Five cross-series themes
-- [[Evidence-Based Leadership (Theme)]] — acting on evidence, not assumption, across all three domains
+- [[Evidence-Based Leadership]] — acting on evidence, not assumption, across all three domains
 - [[Human Side of Change]] — people, not systems, are the real transformation challenge
 - [[Strategy Before Technology]] — diagnose, align, plan, then act — always in that order
 - [[Democratisation of Expertise]] — enterprise-grade capability is now SMB-accessible
@@ -35,7 +35,7 @@ Sustainable organisational transformation requires human change management, tech
 
 ### Foundational & change management concepts
 - [[Change Management]] · [[Kotter 8-Step Model]] · [[Lewin Change Model]] · [[ADKAR Model]]
-- [[Incremental vs Radical Change+]] · [[Planned vs Unplanned Change+]]
+- [[Incremental vs Radical Change]] · [[Planned vs Unplanned Change]]
 - [[Change Coalition]] · [[Communication Strategy]] · [[Cultural Intelligence]]
 - [[Skill Gap Analysis]] · [[KPIs for Change]] · [[Employee Involvement and Ongoing Support]]
 - [[Culture]] · [[Leadership Alignment]]
@@ -48,7 +48,7 @@ Sustainable organisational transformation requires human change management, tech
 - [[Knowledge Management]]
 
 ### Data & analytics concepts
-- [[Data Analytics]] · [[DYOR]] · [[Analytics Framework]] · [[Data Quality and Integrity]]
+- [[Data Analytics]] · [[DYOR - Do Your Own Research]] · [[Analytics Framework]] · [[Data Quality and Integrity]]
 - [[Data-Driven Culture]] · [[Marketing Intelligence and Data-Driven Decisions]] · [[Customer Analytics]]
 - [[Customer Segmentation]] · [[Competitive Intelligence]] · [[Predictive Analytics]]
 - [[Data Storytelling and Ethical Data Use]] · [[Marketing ROI Measurement]] (concept)
@@ -63,11 +63,11 @@ Sustainable organisational transformation requires human change management, tech
 
 ### Digital & data themes
 - [[Customer Journey Optimisation]] · [[Customer-Centricity]] · [[Data as Organisational Asset]]
-- [[Data Storytelling]] · [[Data-Driven Decision Making]] · [[Democratisation of Expertise]]
+- [[Data Storytelling]] · [[Themes/Data-Driven Decision Making]] · [[Democratisation of Expertise]]
 - [[Marketing Intelligence]] · [[Marketing ROI Measurement]] (theme) · [[Research Methods for SMBs]]
 
 ### Meta / framework themes
-- [[Technology as Business Strategy]] · [[Ethical Data Use]] · [[Evidence-Based Leadership (Theme)]]
+- [[Technology as Business Strategy]] · [[Ethical Data Use]] · [[Evidence-Based Leadership]]
 
 ### Reference / external
 - [[The Lean Startup]] · [[The Innovator's Dilemma]]
@@ -93,7 +93,7 @@ Sustainable organisational transformation requires human change management, tech
 - New to the series → [[Human Side of Change]], then [[Strategy Before Technology]]
 - Leading a change project → [[Change Readiness]] → [[Kotter 8-Step Model]] → [[Communication in Change]]
 - Leading a digital rollout → [[Digital Readiness Assessment]] → [[Technology as Business Strategy]] → [[Digital Culture]]
-- Building analytics capability → [[DYOR]] → [[Analytics Framework]] → [[Data-Driven Decision Making]]
+- Building analytics capability → [[DYOR]] → [[Analytics Framework]] → [[Themes/Data-Driven Decision Making]]
 
 ## Open questions
 - How does this framework apply to organisations under 10 employees?

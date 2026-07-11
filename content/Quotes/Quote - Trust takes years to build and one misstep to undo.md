@@ -29,9 +29,9 @@ Directly relevant to change leadership in culturally sensitive contexts. A remin
 - [[Communication Strategy]]
 
 ## Themes this quote feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[+]]
 - [[Continuous Improvement]]
-- [[Incremental vs Radical Change+]]
+- [[Incremental vs Radical Change]]
 - [[Cultural Intelligence]]
 - [[Leadership Alignment]]

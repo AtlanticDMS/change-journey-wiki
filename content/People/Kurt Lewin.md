@@ -36,9 +36,9 @@ Lewin's contribution to change management rests on a small number of durable ide
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2, Literature Review)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Change Management]]
-- [[Change Readiness+]]
+- [[Change Readiness]]
 - [[Lewin Change Model]]
 
 ## My thinking

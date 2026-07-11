@@ -35,14 +35,14 @@ Christensen's theory provides the intellectual backbone for the series' repeated
 
 ## Related concepts
 - [[Digital Transformation]] — the series' answer to the risk this book describes
-- [[Incremental vs Radical Change+]] — sustaining vs disruptive innovation maps closely to this distinction
+- [[Incremental vs Radical Change]] — sustaining vs disruptive innovation maps closely to this distinction
 - [[Risk Management in Digital Transformation]] — mitigating the risk of being disrupted
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Additional Resources)
 
 ## Themes this concept feeds
-- [[Strategy Before Technology+]]
+- [[Strategy Before Technology]]
 
 ## My thinking
 - [[Strategy Before Technology]]

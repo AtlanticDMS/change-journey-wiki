@@ -24,8 +24,8 @@ Seth Godin is an American author and marketing theorist known for writing influe
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]]
 
 ## Themes they are connected to
-- [[Customer-Centricity+]]
-- [[Data as Organisational Asset+]]
+- [[Customer-Centricity]]
+- [[Data as Organisational Asset]]
 
 ## My view
 

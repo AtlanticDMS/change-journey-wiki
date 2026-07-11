@@ -43,7 +43,7 @@ Vol 3 provides the analytical toolkit for customer-centricity that Vol 2 describ
 ## Related concepts
 - [[Data Quality and Integrity]] — the concept-level treatment of asset integrity
 - [[Analytics Framework]] — the system that converts the raw asset into usable insight
-- [[Ethical Data Use+]] — governs how the asset can legitimately be used
+- [[Ethical Data Use]] — governs how the asset can legitimately be used
 - [[Data Analytics]] — the discipline of extracting insight from data
 - [[Machine Learning]] — the technology that scales data insight
 - [[Customer Segmentation]] — data applied to audience understanding
@@ -67,4 +67,3 @@ Vol II treats data as an asset primarily through the lens of security and AI-rea
 - [[Digital Transformation Strategy]]
 - [[Risk Management in Digital Transformation]]
 - [[Cloud Computing]]
-- [[Concepts/Technology as Business Strategy]]

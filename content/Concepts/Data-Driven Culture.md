@@ -32,24 +32,24 @@ Tools and frameworks alone do not create data-driven organisations — culture d
 ## Three-volume link
 Data-driven culture is the most heavily cross-linked concept in the entire series:
 - It is the Vol 3 expression of Vol 2's [[Digital Culture]] — same concept, analytics-specific lens
-- It is the Vol 3 expression of Vol 1's [[Human Side of Change+]] — same cultural change challenge, data-specific context
-- Building it requires Vol 1's [[ADKAR Model]] (individual adoption), [[Communication Strategy]] (the "why"), and [[Employee Involvement+]] (stakeholder participation)
+- It is the Vol 3 expression of Vol 1's [[Human Side of Change]] — same cultural change challenge, data-specific context
+- Building it requires Vol 1's [[ADKAR Model]] (individual adoption), [[Communication Strategy]] (the "why"), and [[Employee Involvement]] (stakeholder participation)
 - Vol 3 Ch. 4.5 explicitly references Vol 2 on the importance of ownership and inclusion in overcoming resistance
 
 ## Related concepts
 - [[Digital Culture]] — Vol 2; technology-side cultural twin of this concept
-- [[Human Side of Change+]] — Vol 1 theme; the deepest root of cultural transformation
+- [[Human Side of Change]] — Vol 1 theme; the deepest root of cultural transformation
 - [[ADKAR Model]] — Vol 1; individual adoption framework for analytics tool uptake
 - [[Communication Strategy]] — Vol 1; communicating the analytics vision
-- [[Employee Involvement+]] — Vol 1; participation builds data culture ownership
+- [[Employee Involvement]] — Vol 1; participation builds data culture ownership
 - [[Concepts/Analytics Framework]] — the structural enabler of data-driven culture
 
 ## Appears in
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Data as Organisational Asset+]]
+- [[Human Side of Change]]
+- [[Data as Organisational Asset]]
 - [[Evidence-Based Leadership]]
 
 ## My thinking

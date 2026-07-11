@@ -20,6 +20,6 @@ Claude Shannon (1916–2001) was an American mathematician and electrical engine
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] — cited as the originator of the digital age that makes transformation possible
 
 ## Themes they are connected to
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 
 ## My view

@@ -37,13 +37,13 @@ Predictive analytics is the Vol 3 advanced application of Vol 2's [[Machine Lear
 - [[Machine Learning]] — Vol 2; the technical foundation of predictive models
 - [[Customer Analytics]] — predictive analytics applied to the customer lifecycle
 - [[Data Quality and Integrity]] — quality prerequisite for reliable predictions
-- [[Marketing ROI Measurement+]] — predictive analytics improves attribution accuracy
+- [[Marketing ROI Measurement]] — predictive analytics improves attribution accuracy
 
 ## Appears in
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 8)
 
 ## Themes this concept feeds
-- [[Data as Organisational Asset+]]
-- [[Concepts/Technology as Business Strategy]]
+- [[Data as Organisational Asset]]
+- [[Technology as Business Strategy]]
 
 ## My thinking

@@ -33,7 +33,7 @@ The series treats readiness assessment as the non-negotiable first step of any t
 - [[Digital Readiness Assessment]] — the Vol II operationalisation of this same underlying idea
 - [[Skill Gap Analysis]] — a core component of readiness assessment
 - [[Leadership Alignment]] — a precondition surfaced by readiness assessment
-- [[Strategy Before Technology+]] — readiness assessment is the diagnostic step of this broader principle
+- [[Strategy Before Technology]] — readiness assessment is the diagnostic step of this broader principle
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2)

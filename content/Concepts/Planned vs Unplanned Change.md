@@ -30,18 +30,18 @@ Each type demands a fundamentally different management posture. Planned change a
 - [[Concepts/Incremental vs Radical Change]] — a related but distinct classification axis
 - [[Lewin Change Model]] — explicitly noted as adaptable to unplanned change
 - [[ADKAR Model]] — appropriate for both planned and unplanned change situations
-- [[Change Readiness+]] — determines an organisation's capacity to absorb either type
+- [[Change Readiness]] — determines an organisation's capacity to absorb either type
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 
 ## My thinking
 - [[Kotter 8-Step Model]]
 - [[Lewin Change Model]]
 - [[ADKAR Model]]
-- [[Change Readiness+]]
+- [[Change Readiness]]
 - [[Concepts/Incremental vs Radical Change|Incremental vs Radical Change]]
 - [[KPIs for Change]]

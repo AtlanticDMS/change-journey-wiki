@@ -37,6 +37,6 @@ Directly mirrors [[Change Readiness+]] (Vol 1 KPI concept) — the organisationa
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 2)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 
 ## My thinking

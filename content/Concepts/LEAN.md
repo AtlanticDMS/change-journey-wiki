@@ -33,7 +33,7 @@ LEAN gives SMBs a disciplined lens for finding hidden inefficiency: excess inven
 ## Related concepts
 - [[Agile]] — often paired with LEAN in modern process improvement
 - [[Lean Six Sigma]] — combines LEAN's waste elimination with Six Sigma's quality-control statistical rigour
-- [[Business Process Automation+]] — automation is frequently the mechanism used to eliminate LEAN-identified waste
+- [[Business Process Automation]] — automation is frequently the mechanism used to eliminate LEAN-identified waste
 - [[Continuous Improvement]] — LEAN's cultural end-state
 
 ## Appears in
@@ -42,7 +42,7 @@ LEAN gives SMBs a disciplined lens for finding hidden inefficiency: excess inven
 
 ## Themes this concept feeds
 - [[Continuous Improvement]]
-- [[Strategy Before Technology+]]
+- [[Strategy Before Technology]]
 
 ## My thinking
 - [[KAIZEN]]

@@ -27,7 +27,7 @@ Understanding where a given change initiative sits on this spectrum determines t
 - From [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2): the AI and digitisation wave is cited as a real-world driver pushing many organisations toward radical rather than purely incremental change.
 
 ## Related concepts
-- [[Planned vs Unplanned Change+]] — a related but distinct axis of change classification
+- [[Planned vs Unplanned Change]] — a related but distinct axis of change classification
 - [[Kotter 8-Step Model]] — typically applied to more radical, planned transformations
 - [[Lewin Change Model]] — flexible enough to apply to either incremental or radical change
 - [[LEAN]] / [[Lean Six Sigma]] — tools of incremental, continuous improvement
@@ -36,11 +36,11 @@ Understanding where a given change initiative sits on this spectrum determines t
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 
 ## My thinking
 - [[Kotter 8-Step Model]]
 - [[Lewin Change Model]]
 - [[ADKAR Model]]
-- [[Change Readiness+]]
-- [[Planned vs Unplanned Change+]]
+- [[Change Readiness]]
+- [[Planned vs Unplanned Change]]

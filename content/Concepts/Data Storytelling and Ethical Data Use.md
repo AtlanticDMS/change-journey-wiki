@@ -34,7 +34,7 @@ Data storytelling is the Vol 3 analytical application of Vol 1's [[Communication
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 9)
 
 ## Themes this concept feeds
-- [[Communication in Change+]]
+- [[Communication in Change]]
 - [[Evidence-Based Leadership]]
 
 ## My thinking

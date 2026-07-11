@@ -29,7 +29,7 @@ Most change initiatives fail not because of poor strategy but because the human 
 - **Adoption over deployment** — a tool or process is only as valuable as its actual human use, not its installation
 - **Fear as the core obstacle** — job insecurity, fear of the unknown, and past change failures are cited as the dominant sources of resistance
 - **Trust as fragile infrastructure** — described as taking years to build and only one misstep to undo
-- **Cross-domain adoption toolkit** — [[ADKAR Model]] for individual change, [[Employee Involvement]] for ownership, [[Communication in Change]] for narrative, [[Ongoing Support Mechanisms+]] for sustaining adoption over time
+- **Cross-domain adoption toolkit** — [[ADKAR Model]] for individual change, [[Employee Involvement]] for ownership, [[Communication in Change]] for narrative, [[Ongoing Support Mechanisms]] for sustaining adoption over time
 
 ## How different books approach it
 
@@ -46,10 +46,10 @@ Chapter 4 on Digital Culture is the Vol 2 equivalent of this theme — it frames
 ## Related concepts
 - [[Culture]] — the terrain on which the human side of change plays out
 - [[Data-Driven Culture]] — Vol III's analytics-specific expression of this theme
-- [[Leadership as Catalyst+]] — leaders are the primary lever for activating human adoption
+- [[Leadership as Catalyst]] — leaders are the primary lever for activating human adoption
 - [[ADKAR Model]] — the most individual-focused change framework
-- [[Employee Involvement+]] — building ownership through participation
-- [[Ongoing Support Mechanisms+]] — sustaining people through and beyond the transition
+- [[Employee Involvement]] — building ownership through participation
+- [[Ongoing Support Mechanisms]] — sustaining people through and beyond the transition
 - [[Communication Strategy]] — the human interface of change leadership
 - [[Cultural Intelligence]] — navigating human diversity in change
 - [[Digital Culture]] — Vol 2 technology-side expression of the human side of change
@@ -60,7 +60,7 @@ Chapter 4 on Digital Culture is the Vol 2 equivalent of this theme — it frames
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 4)
 
 ## Cross-volume bridge
-This is the series' deepest cross-volume thread — the same thesis expressed three times: [[Human Side of Change+]] (Vol I) → [[Digital Culture]] (Vol II) → [[Data-Driven Culture]] (Vol III). Reading all three in sequence reveals a single argument restated at increasing technical specificity.
+This is the series' deepest cross-volume thread — the same thesis expressed three times: [[Human Side of Change]] (Vol I) → [[Digital Culture]] (Vol II) → [[Data-Driven Culture]] (Vol III). Reading all three in sequence reveals a single argument restated at increasing technical specificity.
 
 ## My thinking
 - [[Digital Culture]] — Vol 2 technology-side expression of the human side of change
@@ -70,5 +70,5 @@ This is the series' deepest cross-volume thread — the same thesis expressed th
 - [[Employee Involvement and Ongoing Support]]
 - [[Leadership Alignment]]
 - [[Communication Strategy]]
-- [[Change Readiness+]]
-- [[Employee Involvement+]]
+- [[Change Readiness]]
+- [[Employee Involvement]]

@@ -39,7 +39,7 @@ The concept of understanding your audience before communicating maps directly to
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 6, Ch. 7)
 
 ## Themes this concept feeds
-- [[Customer-Centricity+]]
-- [[Data as Organisational Asset+]]
+- [[Customer-Centricity]]
+- [[Data as Organisational Asset]]
 
 ## My thinking

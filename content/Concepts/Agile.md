@@ -31,7 +31,7 @@ Agile gives SMBs a way to reduce the risk of large-scale failure inherent in lon
 - [[Agile and Lean Practices]] — the series' combined operationalisation of Agile and Lean together
 - [[LEAN]] — complementary waste-elimination philosophy often paired with Agile
 - [[Continuous Improvement]] — the broader cultural outcome Agile practices support
-- [[Incremental vs Radical Change+]] — Agile is structurally suited to incremental change
+- [[Incremental vs Radical Change]] — Agile is structurally suited to incremental change
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 12)
@@ -39,7 +39,7 @@ Agile gives SMBs a way to reduce the risk of large-scale failure inherent in lon
 
 ## Themes this concept feeds
 - [[Continuous Improvement]]
-- [[Strategy Before Technology+]]
+- [[Strategy Before Technology]]
 
 ## My thinking
 - [[Agile and Lean Practices]]

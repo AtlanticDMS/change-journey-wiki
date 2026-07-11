@@ -27,21 +27,21 @@ tags: [type/index, topic/digital-transformation]
 - [[Agile and Lean Practices]] — post-transformation operating rhythm
 
 ## Big themes
-- [[Concepts/Technology as Business Strategy]] — tech decisions are business decisions
-- [[Customer-Centricity+]] — transformation must serve the customer
-- [[Data as Organisational Asset+]] — data is the raw material for everything else
+- [[Technology as Business Strategy]] — tech decisions are business decisions
+- [[Customer-Centricity]] — transformation must serve the customer
+- [[Data as Organisational Asset]] — data is the raw material for everything else
 - [[Continuous Improvement]] — transformation is ongoing, not episodic
-- [[Human Side of Change+]] — the Vol 1 theme that runs through Vol 2's Ch. 4
+- [[Human Side of Change]] — the Vol 1 theme that runs through Vol 2's Ch. 4
 
 ## Cross-volume theme (spans both books)
-- [[Strategy Before Technology+]] — the most important cross-volume insight
+- [[Strategy Before Technology]] — the most important cross-volume insight
 
 ## Key people
 - [[Claude Shannon]] — father of the digital age
 
 ## Best entry points
 - [[Digital Transformation]] — foundational definition
-- [[Strategy Before Technology+]] — the meta-principle connecting both volumes
+- [[Strategy Before Technology]] — the meta-principle connecting both volumes
 - [[Digital Culture]] — the bridge between Vol 1 and Vol 2
 
 ## Open questions

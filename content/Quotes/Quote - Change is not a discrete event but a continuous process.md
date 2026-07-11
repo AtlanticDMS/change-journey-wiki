@@ -25,9 +25,9 @@ Challenges the common framing of change as a project with a start and end date. 
 
 ## Concepts this quote supports
 - [[Change Management]]
-- [[Ongoing Support Mechanisms+]]
+- [[Ongoing Support Mechanisms]]
 
 ## Themes this quote feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 - [[Continuous Improvement]]
-- [[Tom Mostert - Author of CHANGE JOURNEYS]]
+- [[Tom Mostert]]

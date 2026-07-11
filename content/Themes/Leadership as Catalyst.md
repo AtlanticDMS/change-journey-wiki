@@ -57,8 +57,8 @@ Vol I's [[Leadership Alignment]] feeds directly into Vol II's [[Digital Transfor
 
 ## My thinking
 - [[Digital Transformation Strategy]] — strategy design is a leadership act
-- [[Communication in Change+]]
-- [[Change Readiness+]]
+- [[Communication in Change]]
+- [[Change Readiness]]
 - [[Employee Involvement and Ongoing Support]]
 - [[Leadership Alignment]]
-- [[Ongoing Support Mechanisms+]]
+- [[Ongoing Support Mechanisms]]

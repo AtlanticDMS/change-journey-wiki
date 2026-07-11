@@ -33,14 +33,14 @@ For SMBs with limited headcount, automation is one of the highest-leverage digit
 - [[Robotic Process Automation]] — the specific bot-driven automation technology
 - [[LEAN]] — automation is often the mechanism for eliminating LEAN-identified waste
 - [[Digital Transformation Strategy]] — automation initiatives should be prioritised within this broader strategy
-- [[Employee Involvement+]] — critical for successful automation adoption, avoiding resistance rooted in job-security fears
+- [[Employee Involvement]] — critical for successful automation adoption, avoiding resistance rooted in job-security fears
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 8)
 
 ## Themes this concept feeds
-- [[Strategy Before Technology+]]
-- [[Democratisation of Expertise+]]
+- [[Strategy Before Technology]]
+- [[Democratisation of Expertise]]
 
 ## My thinking
 - [[Digital Culture]]
@@ -49,7 +49,7 @@ For SMBs with limited headcount, automation is one of the highest-leverage digit
 - [[Digital Readiness Assessment]]
 - [[Machine Learning]]
 - [[Data Analytics]]
-- [[Data as Organisational Asset+]]
+- [[Data as Organisational Asset]]
 - [[Robotic Process Automation]]
 - [[Continuous Improvement]]
 - [[Digital Transformation Strategy]]

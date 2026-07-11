@@ -42,9 +42,10 @@ Three core phases:
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 1)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
-- [[Leadership as Catalyst+]]
-- [[Communication in Change+]]
+- [[Human Side of Change]]
+- [[Leadership as Catalyst]]
+- [[Communication in Change]]
+
 
 ## My thinking
 This is the overarching discipline, and connects the [[Theme]] part to the [[Concept]] part.

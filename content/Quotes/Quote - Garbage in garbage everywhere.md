@@ -23,4 +23,4 @@ related_concepts:
 The most practically important warning in the book. No amount of sophisticated analytics saves you from poor data quality. Connects directly to Vol 2's data management principles and makes the investment in [[Data Quality and Integrity]] practices non-negotiable.
 
 ## Themes this quote feeds
-- [[Data as Organisational Asset+]]
+- [[Data as Organisational Asset]]

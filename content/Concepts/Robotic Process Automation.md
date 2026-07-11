@@ -27,13 +27,13 @@ Key providers: UiPath, Automation Anywhere, Blue Prism.
 
 ## Related concepts
 - [[Artificial Intelligence]] — RPA increasingly paired with AI for unstructured data handling
-- [[Business Process Automation+]] — RPA is the most common implementation of BPA
+- [[Business Process Automation]] — RPA is the most common implementation of BPA
 - [[Data Analytics]] — RPA generates process data that feeds analytics pipelines
 
 ## Appears in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 5, Ch. 8)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 
 ## My thinking

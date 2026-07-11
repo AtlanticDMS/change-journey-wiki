@@ -51,8 +51,8 @@ The content of a message and the style and channel of delivery are equally impor
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 4 & 5)
 
 ## Themes this concept feeds
-- [[Communication in Change+]]
-- [[Human Side of Change+]]
+- [[Communication in Change]]
+- [[Human Side of Change]]
 - [[Employee Involvement and Ongoing Support]]
 
 ## My thinking

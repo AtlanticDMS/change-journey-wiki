@@ -29,7 +29,7 @@ The series cites Harvard Business Review research that data-driven organisations
 - From [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 4): a fitness studio example shows a data-driven organisation analysing customer feedback and usage patterns to prioritise product features, rather than a product manager assuming what customers want.
 
 ## Related concepts
-- [[DYOR]] — the concept-level foundation of this theme
+- [[DYOR - Do Your Own Research]] — the concept-level foundation of this theme
 - [[Data-Driven Culture]] — the organisational culture required to sustain this practice
 - [[Evidence-Based Leadership]] — the leadership behaviour that models and enforces data-driven decisions
 - [[Cognitive Biases in Research]] — the failure modes that undermine data-driven decision-making if left unchecked

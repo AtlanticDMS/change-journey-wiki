@@ -29,7 +29,7 @@ Digital transformation is the technology strategy. [[Change Management]] (Vol 1)
 
 - [[Leadership Alignment]] (Vol 1) must precede any transformation initiative
 - [[Skill Gap Analysis]] (Vol 1) identifies human capability gaps the technology will expose
-- [[Employee Involvement+]] (Vol 1) is how digital culture gets built from the ground up
+- [[Employee Involvement]] (Vol 1) is how digital culture gets built from the ground up
 
 ## Related concepts
 - [[Digital Readiness Assessment]] — first step before any transformation begins
@@ -41,7 +41,7 @@ Digital transformation is the technology strategy. [[Change Management]] (Vol 1)
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Introduction, Ch. 1)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
-- [[Human Side of Change+]]
+- [[Technology as Business Strategy]]
+- [[Human Side of Change]]
 
 ## My thinking

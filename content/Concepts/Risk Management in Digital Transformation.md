@@ -42,7 +42,7 @@ People risks in this framework directly mirror the resistance and skill gap chal
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 11)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 - [[Continuous Improvement]]
 
 ## My thinking

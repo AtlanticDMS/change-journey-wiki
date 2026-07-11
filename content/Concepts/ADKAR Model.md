@@ -12,8 +12,6 @@ related_concepts:
   - "[[Change Management]]"
   - "[[Kotter 8-Step Model]]"
   - "[[Lewin Change Model]]"
-  - "[[Employee Involvement+]]"
-  - "[[Ongoing Support Mechanisms+]]"
 ---
 
 ## Definition
@@ -36,15 +34,15 @@ To use the ADKAR Model commercially, you may be required to complete PROSCI cert
 
 ## Related concepts
 - [[Kotter 8-Step Model]] — organisational-level complement to ADKAR's individual focus
-- [[Employee Involvement+]] — builds Desire and Knowledge stages
-- [[Ongoing Support Mechanisms+]] — supports Ability and Reinforcement stages
+- [[Employee Involvement]] — builds Desire and Knowledge stages
+- [[Ongoing Support Mechanisms]] — supports Ability and Reinforcement stages
 - [[Skill Gap Analysis]] — feeds directly into the Knowledge and Ability stages
 
 ## Appears in
 - [[Change Management - A Guidebook for SMB Leaders]] (Ch. 2)
 
 ## Themes this concept feeds
-- [[Human Side of Change+]]
+- [[Human Side of Change]]
 
 ## My thinking
 Where [[Lewin Change Model]] gives a simple yet effective three-stage structure suitable for both planned and unplanned change, the [[Kotter 8-Step Model]] adds granularity within each stage for larger, more complex transformations. The [[ADKAR Model]] is internationally recognized through PROSCI certification and suitable for more complex planned institutional change management specialists dealing directly with [[+]].

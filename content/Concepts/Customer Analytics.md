@@ -32,13 +32,13 @@ Customer analytics is the Vol 3 deep-dive into Vol 2's [[Customer Segmentation]]
 - [[Customer Segmentation]] — Vol 2; foundational segmentation concepts
 - [[Predictive Analytics]] — the forecasting engine behind CLV and churn prediction
 - [[Data Quality and Integrity]] — customer analytics is only as good as the data quality
-- [[Marketing ROI Measurement+]] — CLV and churn data directly feed ROI calculations
+- [[Marketing ROI Measurement]] — CLV and churn data directly feed ROI calculations
 
 ## Appears in
 - [[Data Insights and Analytics - A Guidebook for SMB Leaders]] (Ch. 5, Ch. 8)
 
 ## Themes this concept feeds
-- [[Customer-Centricity+]]
-- [[Data as Organisational Asset+]]
+- [[Customer-Centricity]]
+- [[Data as Organisational Asset]]
 
 ## My thinking

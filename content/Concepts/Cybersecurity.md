@@ -46,6 +46,6 @@ Employee cybersecurity training follows the same adoption curve as any change in
 - [[AI and Digital Transformation - A Guidebook for SMB Leaders]] (Ch. 9)
 
 ## Themes this concept feeds
-- [[Concepts/Technology as Business Strategy]]
+- [[Technology as Business Strategy]]
 
 ## My thinking
